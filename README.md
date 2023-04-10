@@ -1,2 +1,2 @@
 # latihanCSS
-Tugas 1 Biodata GIT PESILAT 2023
+Tugas 3 Latihan CSS PESILAT 2023
